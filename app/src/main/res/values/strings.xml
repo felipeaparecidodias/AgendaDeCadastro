@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="Sobrenome">Sobrenome</string>
+    <string name="Idade">Idade</string>
+    <string name="Celular">Celular</string>
+</resources>
